@@ -1,9 +1,10 @@
 ### @mrysav
 
-I joined GitHub in June 2021, but before that I worked for AWS.
+Hubber since June 2021!
 
 A few things about me:
 
-- 🖥️ I've been programming since I was 12. My first language was QBasic.
+- 📦 I work on the Dependency Graph team at GitHub. We make sense of all that crap you put in your `Gemfile`!
 - 📖 I do occasionally program outside of work, and usually it's on my homebrew genealogy website ([mrysav/geneac](https://github.com/mrysav/geneac))
--  🏫 I am working on my Masters @ Georgia Tech
+- 💎 I love Ruby/Rails and I'm trying to get better at it!
+- 🏫 I am working through the [OMSCS program](https://omscs.gatech.edu/home) at Georgia Tech and I'm about halfway through!
